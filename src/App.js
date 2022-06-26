@@ -84,6 +84,7 @@ function App() {
         ))}
       </div>
       <p>Turns : {turns}</p>
+      <p>Built By Rupak</p>
     </div>
   );
 }
